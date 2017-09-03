@@ -1,0 +1,13 @@
+hash: 4ebcbccf9616ce39f9430f966ddd7f9919a651931d9ead4a42517dcb5afc94bb
+updated: 2017-09-03T21:02:57.048045057+08:00
+imports:
+- name: github.com/reactivex/rxgo
+  version: ef39238759f5a55b50475f2991aa37aeac709164
+  subpackages:
+  - errors
+  - fx
+  - handlers
+  - observable
+  - observer
+  - subscription
+testImports: []

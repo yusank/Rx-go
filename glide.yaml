@@ -1,0 +1,6 @@
+package: Rx-go
+import:
+- package: github.com/reactivex/rxgo
+  subpackages:
+  - observable
+  - observer
